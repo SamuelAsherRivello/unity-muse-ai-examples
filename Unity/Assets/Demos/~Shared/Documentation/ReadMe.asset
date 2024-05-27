@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36cf3b74950b299408cc642cd2423789, type: 3}
+  m_Name: ReadMe
+  m_EditorClassIdentifier: 
+  Title: Unity Muse AI Examples
+  Icon: {fileID: 2800000, guid: 7c0822b0780ca4a74b276e50db2c68a3, type: 3}
+  Sections:
+  - TextHeading: Welcome
+    TextSubheading: 
+    TextBody: This is my project. Created from the Unity Project Template
+    LinkName: GitHub.com/SamuelAsherRivello/unity-muse-ai-examples
+    LinkUrl: https://github.com/SamuelAsherRivello/unity-muse-ai-examples
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: Getting Started
+    TextSubheading: Muse
+    TextBody: Powerful AI capabilities complement your creativity and streamline
+      development. Get instant answers, generate unique assets, and see your game
+      idea come to life faster than ever.
+    LinkName: Unity.com/products/muse
+    LinkUrl: https://unity.com/products/muse
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 
+    LinkName: Blog.unity.com/search?q=muse
+    LinkUrl: https://blog.unity.com/search?q=muse
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: Sentis
+    TextBody: Brings the rapid pace of AI model innovation into game development.
+      Import your model via the ONNX file standard, create new gameplay experiences,
+      and publish on all Unity-supported devices.
+    LinkName: Unity.com/products/sentis
+    LinkUrl: https://unity.com/products/sentis
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 
+    LinkName: Blog.unity.com/search?q=sentis
+    LinkUrl: https://blog.unity.com/search?q=sentis
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: Documentation
+    TextSubheading: 
+    TextBody: 
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 1. Muse Chat
+    LinkName: Docs.unity3d.com/Packages/com.unity.muse.chat
+    LinkUrl: https://docs.unity3d.com/Packages/com.unity.muse.chat@1.0/manual/index.html
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 2. Muse Sprite
+    LinkName: Docs.unity3d.com/Packages/com.unity.muse.sprite
+    LinkUrl: https://docs.unity3d.com/Packages/com.unity.muse.sprite@1.0/manual/index.html
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 3. Muse Animate
+    LinkName: Docs.unity3d.com/Packages/com.unity.muse.animate
+    LinkUrl: https://docs.unity3d.com/Packages/com.unity.muse.animate@1.0/manual/index.html
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 4. Muse Behavior
+    LinkName: Docs.unity3d.com/Packages/com.unity.muse.behavior
+    LinkUrl: https://docs.unity3d.com/Packages/com.unity.muse.behavior@0.9/manual/index.html
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 5. Sentis
+    LinkName: Docs.unity3d.com/Packages/com.unity.sentis
+    LinkUrl: https://docs.unity3d.com/Packages/com.unity.sentis@1.5/manual/index.html
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: Samples
+    TextSubheading: 
+    TextBody: 
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 
+    PingObjectGuid: 
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: Open each sample to learn more.
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 1. Muse Chat
+    PingObjectGuid: 0ebf457b9a03ca94e8079ef7175135c9
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 2. Muse Sprite
+    PingObjectGuid: 8527e3918143aa94d8ad4673d15a9da1
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 3. Muse Animate
+    PingObjectGuid: 8009f6295680cd2478eb8d5d92c57c45
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 4. Muse Behavior
+    PingObjectGuid: 2465b8a13418d7b4b8c6218f5cca5c7f
+    MenuItemName: 
+    MenuItemPath: 
+  - TextHeading: 
+    TextSubheading: 
+    TextBody: 
+    LinkName: 
+    LinkUrl: 
+    PingObjectName: 5. Sentis
+    PingObjectGuid: 27184fc38fcf2264881138d24da7b008
+    MenuItemName: 
+    MenuItemPath: 
+  HasLoadedLayout: 0
